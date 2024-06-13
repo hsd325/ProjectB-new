@@ -1,5 +1,6 @@
 # 全名 : 轉珠遊戲專案 sideproject
-<b>Vue前端-放在ProjectB資料夾裡<br>
+<b>因為負責前端整合的人沒整合完，所以push一個更新後的專案上來<br>
+Vue前端-放在ProjectB資料夾裡<br>
 Laravel後台管理-放在back-laravel資料夾裡<br>
 <br>
 ## 注意! docker伺服器啟動後需要一些時間連上Vue和Laravel，出現連線錯誤請再試一次
