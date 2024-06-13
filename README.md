@@ -1,7 +1,10 @@
 # 轉珠遊戲專案 sideproject
 <b>ProjectB資料夾放置Vue前端<br>
 back-laravel資料夾放置Laravel後端管理<br>
+<br><br>
 ## 注意 : docker伺服器啟動後需要一些時間連上Vue和Laravel，出現連線錯誤請再試一次
+
+<br><br>
 
 ## 整個專案和分支網址
 整個專案 : https://github.com/jiunfeng/ProjectB
@@ -9,7 +12,7 @@ back-laravel資料夾放置Laravel後端管理<br>
 分支 : https://github.com/hsd325/ProjectB
 
 ## Vue、docker安裝和啟動
-1.需安裝node.js、docker，docker<br><br>
+1.需安裝node.js、docker<br><br>
 2.執行docker<br><br>
 3.在ProjectB\vue-main執行【npm i】
 ![螢幕擷取畫面 (279)](https://github.com/hsd325/ProjectB-new/assets/100175482/07480a67-845d-4293-846f-e11d354bf73f)
