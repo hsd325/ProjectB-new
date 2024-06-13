@@ -1,16 +1,18 @@
-# 轉珠遊戲專案 sideproject
-<b>ProjectB資料夾放置Vue前端<br>
-back-laravel資料夾放置Laravel後端管理<br>
-<br><br>
-## 注意 : docker伺服器啟動後需要一些時間連上Vue和Laravel，出現連線錯誤請再試一次
+# 全名 : 轉珠遊戲專案 sideproject
+<b>Vue前端-放在ProjectB資料夾裡<br>
+Laravel後台管理-放在back-laravel資料夾裡<br>
+<br>
+## 注意! docker伺服器啟動後需要一些時間連上Vue和Laravel，出現連線錯誤請再試一次
 
-<br><br>
+<br>
 
-## 整個專案和分支網址
+# 整個專案和分支網址
 整個專案 : https://github.com/jiunfeng/ProjectB
 
 分支 : https://github.com/hsd325/ProjectB
+<br><br>
 
+# 安裝步驟
 ## Vue、docker安裝和啟動
 1.需安裝node.js、docker<br><br>
 2.執行docker<br><br>
@@ -38,6 +40,7 @@ back-laravel資料夾放置Laravel後端管理<br>
 4.在back-laravel執行【php artisan serve】，啟動Laravel
 ![螢幕擷取畫面 (283)](https://github.com/hsd325/ProjectB-new/assets/100175482/43d7d2cb-029d-4f84-9cd3-4451e9eda25a)
 
+# 負責項目
 ## Vue前端負責項目
 1.登入畫面和登入js使用(js為別的組員做的)
 ![螢幕擷取畫面 (275)](https://github.com/hsd325/ProjectB-new/assets/100175482/3de6eaff-2cea-4dc7-92be-ed5c74fcdfe1)
@@ -54,7 +57,7 @@ back-laravel資料夾放置Laravel後端管理<br>
 5.可更換頭象
 ![螢幕擷取畫面 (278)](https://github.com/hsd325/ProjectB-new/assets/100175482/68486040-ae2e-4084-8d0f-aa66bb35a424)
 
-## Laravel 後端管理系統
+## Laravel 後端管理系統，全部由我製作完成
 1.可新增、刪除、更新
 ![螢幕擷取畫面 (267)](https://github.com/hsd325/ProjectB/assets/100175482/3c45be8c-70a8-4764-b277-a02dcab97ad7)
 
@@ -71,7 +74,7 @@ back-laravel資料夾放置Laravel後端管理<br>
 隊伍
 ![螢幕擷取畫面 (273)](https://github.com/hsd325/ProjectB/assets/100175482/0f67e683-d30b-4447-bcaf-bbc3102e0a28)
 
-## 專案技術
+# 專案技術
 - GitHub 分支和上傳功能
 - Vue 3
 - Bootstrap v5.2.3
