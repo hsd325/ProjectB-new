@@ -10,7 +10,7 @@ Laravel後台管理-放在back-laravel資料夾裡<br>
 # 整個專案和分支網址
 整個專案 : https://github.com/jiunfeng/ProjectB
 
-分支 : https://github.com/hsd325/ProjectB
+本人負責的分支 : https://github.com/hsd325/ProjectB
 <br><br>
 
 # 安裝步驟
